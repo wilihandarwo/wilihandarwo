@@ -1,4 +1,4 @@
 <?php
 echo "wilihandarwo";
 echo "update";
-echo "6";
+echo "7";
