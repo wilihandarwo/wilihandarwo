@@ -28,7 +28,7 @@ end
 
 ### 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilihandarwo&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilihandarwo&layout=compact&theme=dark)](https://github.com/wilihandarwo)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilihandarwo&layout=compact&theme=dark)](https://github.com/wilihandarwo) -->
 
 ### 🌟 Specializations
 - Ruby on Rails Application Architecture
