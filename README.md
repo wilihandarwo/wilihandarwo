@@ -10,7 +10,7 @@ class Developer < ActiveRecord::Base
   has_many :projects
   
   def self.primary_stack
-    ['Ruby on Rails', 'SQLite', 'Hotwire: Turbo - Stimulus - Native', 'Solid Trifecta: Cable - Cache - Queue']
+    ['Ruby on Rails', 'SQLite', 'Hotwire', 'TailwindCSS']
   end
   
   def self.testing_tools
