@@ -9,10 +9,10 @@ Crafting web solutions with Ruby, PHP, and React. Building bridges between backe
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wilihandarwo&show_icons=true&theme=radical)
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilihandarwo)
 
 ### 🚀 Featured Projects
 - Project 1: Brief description
@@ -20,4 +20,4 @@ Crafting web solutions with Ruby, PHP, and React. Building bridges between backe
 - Project 3: Brief description
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [wilihandarwo](https://github.com/wilihandarwo)
