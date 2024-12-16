@@ -12,7 +12,11 @@ class Developer < ActiveRecord::Base
   def self.primary_stack
     ['Ruby on Rails', 'SQLite', 'Hotwire', 'TailwindCSS']
   end
-  
+
+  def self.deployment
+    ['Kamal 2', 'VPS']
+  end
+
   def self.testing_tools
     ['RSpec', 'Factory Bot', 'Capybara']
   end
