@@ -26,8 +26,8 @@ end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilihandarwo&show_icons=true&theme=dark)
+<!-- ### 📊 GitHub Activity -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilihandarwo&show_icons=true&theme=dark) -->
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilihandarwo&layout=compact&theme=dark)](https://github.com/wilihandarwo) -->
 
 ### 🌟 Specializations
