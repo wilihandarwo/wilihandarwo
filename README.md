@@ -43,7 +43,7 @@ end
 - DevOps & Deployment Automation
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/wilihandarwo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilihandarwo)
 [![Twitter](https://img.shields.io/badge/@wilihandarwo-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wilihandarwo)
 
 ---
