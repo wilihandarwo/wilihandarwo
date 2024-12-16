@@ -10,7 +10,7 @@ class Developer < ActiveRecord::Base
   has_many :projects
   
   def self.primary_stack
-    ['Ruby on Rails', 'PostgreSQL', 'Redis', 'Sidekiq']
+    ['Ruby on Rails', 'SQLite', 'Redis', 'Sidekiq']
   end
   
   def self.testing_tools
@@ -22,8 +22,9 @@ end
 ### 🚀 Core Competencies
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilihandarwo&show_icons=true&theme=dark)
