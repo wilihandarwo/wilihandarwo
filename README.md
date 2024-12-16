@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fadli Wilihandarwo
 
-## 🛠️ Ruby on Rails Expert & Full Stack Developer
+## 🛠️ Ruby on Rails Developer
 Passionate Ruby on Rails developer with a deep understanding of web application architecture and best practices. Transforming ideas into elegant, scalable solutions.
 
 ### 💎 Ruby Expertise
